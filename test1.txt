@@ -1,1 +1,2 @@
 stripe_apikey=sk_live_C0YZHd8V7cA6sknGfju23dvbb
+stripe_apikey=sk_live_C0YZHd8V7cA6sknGfju23dadf
